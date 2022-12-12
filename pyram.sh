@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set the maximum number of rows
-max_rows=6
+max_rows=14
 
 # Loop through the rows, starting from 1
 for ((i=1; i<=max_rows; i++)); do
